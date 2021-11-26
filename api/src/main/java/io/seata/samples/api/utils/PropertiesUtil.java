@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.util.Properties;
 
 /**
- * The type Properties util.
+ * The type Properties util.sa
  *
  * @author jimin.jm @alibaba-inc.com
  * @date 2019 /08/21
